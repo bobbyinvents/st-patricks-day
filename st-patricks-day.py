@@ -1,5 +1,4 @@
 import random
-import sys
 import time
 
 ZEN_OF_PYTHON = """
